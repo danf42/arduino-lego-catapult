@@ -29,9 +29,7 @@ Here are the electrical parts we used for the project
 ## Finished Product
 My presentation walked the kids through creating a schematic, creating a wiring diagram, following those diagrams to build a prototype, writing code to control the arduino, and finally testing your design.  
 
-I received a lot of great feedback from the students and administration on my presentation.  They said the students all talked about after my talk.  
-
-The students also really enjoyed it.  The older students were very interested in the Arduino and how with just a few parts you can create something.  The younger kids enjoyed like pushing the buttons and knocking over the cups.  
+I received a lot of great feedback from the teachers and administration on my presentation.  I was told the kids talked about it after they left.  The students also really enjoyed it.  The older students were very interested in the Arduino and how, with just a few parts, you can create something.  The younger kids enjoyed pushing the buttons and knocking over the cups.  
 
 ![Schematic](screenshots/schematic.jpg "Schematic")
 
